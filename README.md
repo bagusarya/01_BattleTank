@@ -3,4 +3,5 @@ An open-world battle tank with simple terrain,tank, explotion, and advance contr
 
 ## Lecture List
 * BT01 Intro, Notes & Assets
-* 
+* BT02 Game Design Document (GDD)
+*
